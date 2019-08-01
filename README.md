@@ -14,7 +14,10 @@ This project aims to build a low cost, highly customizable yet large volume 3D p
 # Design
 
 # Team members
-* C Sundara Paripooranan
-* Jack Samuel
-* Manu Atitya
-* Aditya Singh
+  • (Sundara Paripooranan) [https://github.com/paripooranan]
+     
+  • (Manu Aatitya R P) [https://github.com/manuaatitya]  
+  
+  • (Jack Samuel S) [https://github.com/jaxxstar]
+  
+  * (Aditya Singh) [https://github.com/adityasingh3007]
