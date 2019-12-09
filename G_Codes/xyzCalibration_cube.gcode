@@ -1,5 +1,5 @@
-M190 S60.000000
-M109 S210.000000
+M190 S30.000000
+M109 S185.000000
 ;Sliced at: Sun 27-11-2016 12:31:04
 ;Basic settings: Layer height: 0.2 Walls: 1.2 Fill: 20
 ;Print time: 14 minutes

@@ -7,13 +7,13 @@
 ; top infill extrusion width = 0.58mm (2.95mm^3/s)
 
 M107
-M104 S205 ; set temperature
+M104 S180 ; set temperature
 G28 ; home all axes
 G1 Z5 F5000 ; lift nozzle
 
 ; Filament gcode
 
-M109 S205 ; set temperature and wait for it to be reached
+M109 S180 ; set temperature and wait for it to be reached
 G21 ; set units to millimeters
 G90 ; use absolute coordinates
 M82 ; use absolute distances for extrusion
